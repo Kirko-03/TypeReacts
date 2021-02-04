@@ -1,0 +1,16 @@
+.nav{
+
+    text-align: center;
+    grid-area:n;
+    background-image:url('https://csrjournal.com/wp-content/uploads/2020/02/orig.jpg');
+  }
+.item a{
+    color: black;
+text-decoration: none;
+}
+  .item{
+color:rgb(26, 16, 173);
+  }
+  .item a.activeLink{
+      color:white;
+  }
